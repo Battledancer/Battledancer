@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Battledancer
 - 👀 I’m interested in 3D modeling and Production Design
-- 🌱 I’m currently learning Blender
+- 🌱 I’m currently learning Sketchup, Blender, and Substance Designer
 - 💞️ I’m looking to collaborate on Video Games
 - 📫 How to reach me battledancer@gmail.com
 
